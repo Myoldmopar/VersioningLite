@@ -5,4 +5,4 @@ omit =
         */.pvenv/*
         venv/*
         setup.py
-        */travis/*
+        */travis/virtualenv/*
